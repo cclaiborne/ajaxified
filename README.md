@@ -1,11 +1,3 @@
-# RailsCasts Example Application
+#Ajaxified
 
-Run these commands to try it out.
-
-```
-bundle
-rake db:setup
-rails s
-```
-
-Requires Ruby 1.9.2 or later to run.
+An ajaxified task list following Railscast jQuery & AJAX RailsCast #136
